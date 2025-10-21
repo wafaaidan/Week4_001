@@ -7,5 +7,7 @@ public class LearnVariable{
         String nama;
         System.out.println("masukkan umur= ");
         umur= newScan.nextInt();
+        System.out.println("masukkan nama= ");
+        nama= newScan.nextLine();
     }
 }
